@@ -39,6 +39,7 @@ USB 転送の観測だけから自前でスタックを組んでいる。他の 
 
 #### メディア・配信・VTuber 制作
 
+- **[audio-router](https://github.com/4noha/audio-router)** — macOS のプロセス単位オーディオキャプチャ/ルーティングツール（Process Tap・共有メモリ経由で配信/他ツールへ配線）
 - **[obs-audio-router-shm](https://github.com/4noha/obs-audio-router-shm)** — OBS Studio のオーディオソース/フィルタ（audio-router と共有メモリで連携）
 - **[obs-syphon-browser](https://github.com/4noha/obs-syphon-browser)** — OBS Studio 用、Syphon サーバーをドックでプレビューするプラグイン
 - **[youtube-chat-overlay-tv](https://github.com/4noha/youtube-chat-overlay-tv)** — Google TV 上で YouTube のアーカイブチャットを再生するオーバーレイ
