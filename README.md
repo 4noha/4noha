@@ -17,18 +17,14 @@ USB 転送の観測だけから自前でスタックを組んでいる。他の 
 
 - **[diy-fido-key](https://github.com/4noha/diy-fido-key)** — ESP32-S3 で自作した USB FIDO2 セキュリティキー
 - **[ddr_stamp](https://github.com/4noha/ddr_stamp)** — HX711 ロードセルを使った Bluetooth DDR コントローラ
-- **[fairplay-decrypt](https://github.com/4noha/fairplay-decrypt)** — FairPlay で保護された App Store の IPA をオフライン復号（独立したキー導出）
-- **[SonyNasne-debian](https://github.com/4noha/SonyNasne-debian)** — Sony nasne (CECH-ZNR2J) を解析し Debian (mipsel) を直起動させる
 
 #### お気に入りの変わり種
 
 - **[uzura-incubator](https://github.com/4noha/uzura-incubator)** — Anycubic i3 Mega/Mega-S 3D プリンタを転用したうずらの卵の孵卵器
-- **[coffee server](https://gist.github.com/4noha/76768a39e2b1565cd0670120631a5871)** — FTDI の USB bitbang GPIO でコーヒー抽出リグを操作する自宅サーバー起動スクリプト（gist）
 
 #### OS・システム内部
 
 - **[openbsd-pomera-dm250](https://github.com/4noha/openbsd-pomera-dm250)** — KING JIM ポメラ DM250 に OpenBSD を載せる。カーネルパッチ・BT テザリング・suspend/resume 修正まで一式
-- **[AUhikari-802.1x](https://github.com/4noha/AUhikari-802.1x)** — au ひかりで HGW を使わず 802.1x 認証だけで接続する
 
 #### AI エージェント向けツール
 
