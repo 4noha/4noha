@@ -36,7 +36,6 @@ USB 転送の観測だけから自前でスタックを組んでいる。他の 
 #### アプリ
 
 - **[openmoney](https://github.com/4noha/openmoney)** — 個人資産管理ツール
-- **[iot-switch-4-m5stack](https://github.com/4noha/iot-switch-4-m5stack)** — M5Stack 向けの低消費電力 IoT スイッチ
 
 #### メディア・配信・VTuber 制作
 
